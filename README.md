@@ -1,2 +1,1 @@
-My first readme
-lets see how it goes
+My first readme lets see how it goes
